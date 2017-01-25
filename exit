@@ -1,0 +1,35 @@
+[33mcommit fbd535d54fee15aef3625b400797d39bc657611d[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Wed Jan 25 18:45:44 2017 +0000
+
+    lesson 7 before fixing create action
+
+[33mcommit e6355bc2bbe3a37f589e47e47fc2daf905dc79c5[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Wed Jan 25 17:45:49 2017 +0000
+
+    lesson 7 fixing test
+
+[33mcommit 1af47a264307482ec783704525f4e6563f17c497[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Wed Jan 25 15:53:50 2017 +0000
+
+    added bootstrap
+
+[33mcommit 6bad3b1c6a8519c9761e3202fd1d7e72d0c2f36f[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Wed Jan 25 00:26:52 2017 +0000
+
+    first test lesson5
+
+[33mcommit b87a24e379d1ccf28606b7d7673fdfd482d9c3d5[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Tue Jan 24 23:41:39 2017 +0000
+
+    added rspec for testing
+
+[33mcommit 9efad71daec0a07e4a35145f979c8259500b38f5[m
+Author: Melissa Reynolds <mkreynolds@cableone.net>
+Date:   Tue Jan 24 23:03:00 2017 +0000
+
+    Initial commit
